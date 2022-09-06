@@ -1,0 +1,12 @@
+#a {
+    text-align: justify;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
+}
+#b {
+    color: aqua;
+    display: inline-block;
+    border: 2px red solid;
+    margin: 8px;
+}
